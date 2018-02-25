@@ -1,0 +1,89 @@
+﻿@model Cus.ViewModels.AddOrderViewModel
+
+@{
+    ViewBag.Title = "AddOrder";
+}
+
+<h2>AddOrder</h2>
+
+@using (Html.BeginForm("AddOrder", "Cus"))
+{
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>AddOrderViewModel</legend>
+
+        <div class="editor-label">
+            聯絡人名稱：
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.CustomerID, new MultiSelectList(Model.CustomerList, "CustomerID", "ContactName"))
+            @Html.ValidationMessageFor(model => model.CustomerID)
+        </div>
+
+        <div class="editor-label">
+            產品名稱：
+        </div>
+        <div class="editor-field">
+            @*@Html.EditorFor(model => model.ProductName)*@
+            @Html.DropDownListFor(model => model.ProductID, new MultiSelectList(Model.ProductList, "ProductID", "ProductName"))
+            @Html.ValidationMessageFor(model => model.ProductID)
+        </div>
+
+        <div class="editor-label">
+            產品接洽人員：
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.EmployeeID, new MultiSelectList(Model.EmployeeList, "EmployeeID", "FirstName"))
+            @Html.ValidationMessageFor(model => model.EmployeeID)
+        </div>
+
+        <div class="editor-label">
+            數量：
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Quantity)
+            @Html.ValidationMessageFor(model => model.Quantity)
+        </div>
+
+        @*<div class="editor-label">
+                @Html.LabelFor(model => model.UnitPrice)
+            </div>
+            <div class="editor-field">
+                @Html.EditorFor(model => model.UnitPrice)
+                @Html.ValidationMessageFor(model => model.UnitPrice)
+            </div>*@
+
+        <div class="editor-label">
+            貨運名稱：
+        </div>
+        <div class="editor-field">
+            @Html.DropDownListFor(model => model.ShipperID, new MultiSelectList(Model.ShipperList, "ShipperID", "CompanyName"))
+            @Html.ValidationMessageFor(model => model.ShipperID)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ShipperAddress)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ShipperAddress)
+            @Html.ValidationMessageFor(model => model.ShipperAddress)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.OrderDate)
+        </div>
+        <div class="editor-field">
+            @Html.TextBoxFor(model => model.OrderDate, string.Format("{0:yyyy/MM/dd}", Model.OrderDate))
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

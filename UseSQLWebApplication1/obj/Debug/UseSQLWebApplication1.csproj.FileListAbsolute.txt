@@ -1,0 +1,12 @@
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLWebApplication1\UseSQLWebApplication1\bin\UseSQLWebApplication1.dll.config
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLWebApplication1\UseSQLWebApplication1\bin\UseSQLWebApplication1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLWebApplication1\UseSQLWebApplication1\bin\UseSQLWebApplication1.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLWebApplication1\UseSQLWebApplication1\obj\Debug\UseSQLWebApplication1.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLWebApplication1\UseSQLWebApplication1\obj\Debug\UseSQLWebApplication1.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL\UseSQLWebApplication1\UseSQLWebApplication1\obj\Debug\UseSQLWebApplication1.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\UseSQLWebApplication1\UseSQLWebApplication1\bin\UseSQLWebApplication1.dll.config
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\UseSQLWebApplication1\UseSQLWebApplication1\bin\UseSQLWebApplication1.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\UseSQLWebApplication1\UseSQLWebApplication1\bin\UseSQLWebApplication1.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\UseSQLWebApplication1\UseSQLWebApplication1\obj\Debug\UseSQLWebApplication1.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\UseSQLWebApplication1\UseSQLWebApplication1\obj\Debug\UseSQLWebApplication1.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\UseSQLWebApplication1\UseSQLWebApplication1\obj\Debug\UseSQLWebApplication1.pdb

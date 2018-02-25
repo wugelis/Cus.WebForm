@@ -1,0 +1,7 @@
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.DataAccess.dll
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.DataAccess.pdb
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAccess.dll
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAccess.pdb
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.Entities.dll
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.Entities.pdb
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAccess.csprojResolveAssemblyReference.cache

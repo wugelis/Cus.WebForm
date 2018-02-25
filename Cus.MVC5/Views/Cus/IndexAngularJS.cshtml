@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "IndexAngularJS";
+}
+
+<h2>IndexAngularJS</h2>
+
+<div ng-app="app" ng-controller="Ctrl">
+    <select ng-model="selection" ng-options="cus.CustomerID as cus.ContactName for cus in CusList">
+        <option value="{{cus.CustomerID}}">{{selection.ContactName}}</option>
+    </select>
+    <br />
+    <button ng-click="EqualHundred(selection)" class="btn btn-default">查詢資料</button><h3></h3>
+    <br />
+    <table>
+        <thead>
+            <tr>
+                <th>CustomerID</th>
+                <th>CompanyName</th>
+                <th>ContactName</th>
+                <th>City</th>
+                <th>OrderID</th>
+                <th>UnitPrice</th>
+                <th>ProductID</th>
+                <th>ProductName</th>
+                <th>OrderDate</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="test in Msg">
+                <td>{{test.CustomerID}}</td>
+                <td>{{test.CompanyName}}</td>
+                <td>{{test.ContactName}}</td>
+                <td>{{test.City}}</td>
+                <td>{{test.OrderID}}</td>
+                <td>{{test.UnitPrice}}</td>
+                <td>{{test.ProductID}}</td>
+                <td>{{test.ProductName}}</td>
+                <td>{{test.OrderDate}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
+
+<script src="@Url.Content("~/Scripts/Controllers/CusController.js")"></script>

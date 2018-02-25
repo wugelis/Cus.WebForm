@@ -1,0 +1,4 @@
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\bin\Debug\Cus.Entities.dll
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\bin\Debug\Cus.Entities.pdb
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\obj\Debug\Cus.Entities.dll
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\obj\Debug\Cus.Entities.pdb

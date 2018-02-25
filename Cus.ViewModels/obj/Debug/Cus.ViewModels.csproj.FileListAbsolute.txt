@@ -1,0 +1,34 @@
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.ViewModels\bin\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.ViewModels\bin\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLWebApplication1\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.ViewModels\bin\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.ViewModels\bin\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\Cus.ViewModels\bin\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\Cus.ViewModels\bin\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\內部教育訓練\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\SampleCode\Original\UseSQL_Step\UseSQLMvc4Application1\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.ViewModels\bin\Debug\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\如何將現有ASP.NET Web Form網站轉為ASP.NET MVC\Original\UseSQL_Step\Run\UseSQLMvc4Application1\Cus.ViewModels\bin\Debug\Cus.Models.pdb
+D:\Visual Studio 2013 Demo\Autofac\UseSQLMVC5AutofacApplication1\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Demo\Autofac\UseSQLMVC5AutofacApplication1\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
+D:\Visual Studio 2013 Demo\Autofac\UseSQLMVC5AutofacApplication1\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb
+D:\Visual Studio 2013 Demo\Autofac\UseSQLMVC5AutofacApplication1\Cus.ViewModels\bin\Debug\Cus.ViewModels.dll
+D:\Visual Studio 2013 Demo\Autofac\UseSQLMVC5AutofacApplication1\Cus.ViewModels\bin\Debug\Cus.ViewModels.pdb
+D:\Visual Studio 2013 Demo\Autofac\UseSQLMVC5AutofacApplication1\Cus.ViewModels\bin\Debug\Cus.DataAccess.dll
+D:\Visual Studio 2013 Demo\Autofac\UseSQLMVC5AutofacApplication1\Cus.ViewModels\bin\Debug\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\StepByStep\WebProjects\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\StepByStep\WebProjects\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\StepByStep\WebProjects\Cus.ViewModels\bin\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\StepByStep\WebProjects\Cus.ViewModels\bin\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\StepByStep\WebProjects\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\bin\Debug\Cus.ViewModels.dll
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\bin\Debug\Cus.ViewModels.pdb
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb
+D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache

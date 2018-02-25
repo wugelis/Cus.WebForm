@@ -1,0 +1,88 @@
+﻿@model Cus.ViewModels.QueryViewModel
+
+@{
+    ViewBag.Title = "Index";
+
+    ViewBag.CustomerLists = new MultiSelectList(Model.CustomerList, "CustomerID", "ContactName", new string[] {Model.QUERY_PARAM.CustomerID});
+}
+
+<h2>Index</h2>
+
+<p>
+    
+</p>
+@using (Html.BeginForm("Index", "Cus"))
+{
+    @Html.DropDownListFor(model => model.QUERY_PARAM.CustomerID, ViewBag.CustomerLists as MultiSelectList)<br/>
+    <input type="submit" value="查詢客戶訂單" class="btn btn-default" /> @Html.ActionLink("Create New", "AddOrder", null, new { @class = "btn btn-default" })
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().CustomerID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().CompanyName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().ContactName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().City)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().OrderID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().UnitPrice)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().ProductID)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().ProductName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CUS_Ordes.FirstOrDefault().OrderDate)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model.CUS_Ordes) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CustomerID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CompanyName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ContactName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.City)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.UnitPrice)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductID)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.ProductName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderDate)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+            @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+        </td>
+    </tr>
+}
+
+</table>
