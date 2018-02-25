@@ -7,7 +7,7 @@ https://dotblogs.com.tw/gelis/2015/06/23/151629
 
 本課程的重點不在於轉換為 MVC 這件事，重點在於架構性的思考，筆者會先帶著大家將原本的網站分層、將各層 (Layer/Tier) 職責切割清楚，說明當我職責切分清楚時，前端其實不管是既有的 WebForm 應用程式，或是重新撰寫的 MVC 應用程式，都可以操作這個Services層
 
-這一次，筆者將從頭帶著大家動手做。如何將一個現有的 Northwind 的訂單編輯程式(ASP.NET WebForm) 轉換為 ASP.NET MVC
+本範例是筆者帶著大家從頭動手做，將一個現有的 Northwind 的訂單編輯程式(ASP.NET WebForm) 轉換為 ASP.NET MVC。
 
 本範例程式、將各層 (Layer/Tier) 職責切割清楚，說明當我職責切分清楚時，前端其實不管是既有的 WebForm 應用程式，或是重新撰寫的 MVC 應用程式，都可以操作這個Services層。
 
