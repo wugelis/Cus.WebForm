@@ -32,3 +32,8 @@ D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\bin\Debug\Cus.ViewMode
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.ViewModels\bin\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.ViewModels\bin\Debug\Cus.ViewModels.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.ViewModels\obj\Debug\Cus.ViewModels.pdb

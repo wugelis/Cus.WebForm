@@ -5,3 +5,10 @@ D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAcce
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.Entities.dll
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.Entities.pdb
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAccess.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.Entities.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.DataAccess\bin\Debug\Cus.Entities.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAccess.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.DataAccess\obj\Debug\Cus.DataAccess.pdb

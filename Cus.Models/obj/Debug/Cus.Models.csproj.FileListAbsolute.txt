@@ -10,3 +10,15 @@ D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Models\bin\Debug\Cus.DataAccess.d
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Models\bin\Debug\Cus.Entities.dll
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Models\bin\Debug\Cus.DataAccess.pdb
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Models\bin\Debug\Cus.Entities.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\Cus.Models.dll.config
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\Cus.Models.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\Cus.DataAccess.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\Cus.Entities.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\GelisFrameworks.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\NPOI.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\Cus.DataAccess.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\bin\Debug\Cus.Entities.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\obj\Debug\Cus.Models.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\obj\Debug\Cus.Models.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Models\obj\Debug\Cus.Models.pdb

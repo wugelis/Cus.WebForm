@@ -2,3 +2,8 @@ D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\bin\Debug\Cus.Entities.d
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\bin\Debug\Cus.Entities.pdb
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\obj\Debug\Cus.Entities.dll
 D:\Visual Studio 2013 Demo\Lab\Cus.WebForm\Cus.Entities\obj\Debug\Cus.Entities.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Entities\bin\Debug\Cus.Entities.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Entities\bin\Debug\Cus.Entities.pdb
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Entities\obj\Debug\Cus.Entities.csprojResolveAssemblyReference.cache
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Entities\obj\Debug\Cus.Entities.dll
+D:\Gelis Documents\教育訓練課程\從Web Form到MVC\SourceCode\Cus.WebForm\Cus.Entities\obj\Debug\Cus.Entities.pdb
